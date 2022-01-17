@@ -15,3 +15,6 @@ This is a repository to save my works at **University of Science, VNUHCM**
 
 # Course: Data Structures and Algorithms
 # Tên tiếng Việt: Cấu trúc dữ liệu và giải thuật
+
+# Course: R for Probability and Statistics
+# Tên tiếng Việt: Thực hành Xác suất thống kê

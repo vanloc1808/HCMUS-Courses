@@ -13,6 +13,7 @@ Exercises: https://github.com/vanloc1808/HCMUS-IntroductionToProgramming
 Course code: CSC10002    
 Course: Advanced Programming (Programming Techniques)  
 Tên tiếng Việt: Kỹ thuật lập trình  
+Exercises: https://github.com/vanloc1808/HCMUS-AdvancedProgramming  
 Mid-term project: https://github.com/mekanican/BigInteger  
 Final project: https://github.com/vanloc1808/HCMUS-AP-Project-SearchEngine  
 

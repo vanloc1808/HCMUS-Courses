@@ -4,7 +4,8 @@
 **01.**  
 Course code: CSC10001  
 Course: Introduction to Programming  
-Tên tiếng Việt: Nhập môn lập trình  
+Tên tiếng Việt: Nhập môn lập trình 
+Exercises: https://github.com/vanloc1808/HCMUS-IntroductionToProgramming  
 
 
 # Semester 2:

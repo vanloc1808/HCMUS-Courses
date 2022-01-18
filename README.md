@@ -14,7 +14,7 @@ Course: Advanced Programming (Programming Techniques)
 Tên tiếng Việt: Kỹ thuật lập trình  
 
 # Semester 3:
-**01.** 
+**01.**   
 Course code: CSC10003    
 Course: Object - Oriented Programming  
 Tên tiếng Việt: Phương pháp lập trình hướng đối tượng  
